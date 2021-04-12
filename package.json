@@ -1,0 +1,19 @@
+{
+  "name": "examples-js-solid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexaGh26/Examples-JS-SOLID.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexaGh26/Examples-JS-SOLID/issues"
+  },
+  "homepage": "https://github.com/AlexaGh26/Examples-JS-SOLID#readme"
+}
